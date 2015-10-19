@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/getopenmono/travis.svg)](https://travis-ci.org/getopenmono/travis)
+[![Build Status](https://travis-ci.org/jpsecher/travis.svg)](https://travis-ci.org/jpsecher/travis)
 
 # Travis CI test
 
