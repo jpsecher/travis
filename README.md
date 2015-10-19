@@ -4,5 +4,5 @@
 
 This is a minimal project testing Travis Continuous Integration using:
 
- - Cucumber.
+ [ ] Cucumber.
 
