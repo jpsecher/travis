@@ -5,5 +5,5 @@ before_script:
   - gem install cucumber
   - gem install aruba
 script:
-  - cucumber --version
-  - gem list
+  - ./compile.sh
+  - ./acceptancetest.sh
