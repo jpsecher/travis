@@ -2,7 +2,7 @@
 
 set -e
 
-BUILDDIR=bin
+BUILDDIR=build
 APP=$BUILDDIR/speak
 
 if [ -e "$BUILDDIR" ]; then rm -rf "$BUILDDIR"; fi
